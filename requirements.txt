@@ -1,0 +1,4 @@
+# Python 3.11 or newer
+pandas>=2.2,<4
+mcp>=2.0,<3        # for the MCP server
+anthropic>=1.0,<2  # only needed for --llm

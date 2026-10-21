@@ -1,0 +1,41 @@
+raw,merchant,processor,city,province,category
+SQ *JOES COFFEE TORONTO ON,Joes Coffee,Square,Toronto,ON,Restaurants & Cafes
+TST* BLUE DOOR BISTRO OTTAWA ON,Blue Door Bistro,Toast,Ottawa,ON,Restaurants & Cafes
+PAYPAL *NETFLIX.COM 4029357733 CA,Netflix,PayPal,,,Subscriptions
+AMZN Mktp CA*2K4LM8901 WWW.AMAZON.CA ON,Amazon Marketplace,,,ON,Online Shopping
+UBER* TRIP HELP.UBER.COM,Uber,,,,Transportation
+UBER* EATS TORONTO ON,Uber Eats,,Toronto,ON,Restaurants & Cafes
+TIM HORTONS #3421 KANATA ON,Tim Hortons,,Kanata,ON,Restaurants & Cafes
+LOBLAWS #1012 OTTAWA ON,Loblaws,,Ottawa,ON,Groceries
+METRO 789 MONTREAL QC,Metro,,Montreal,QC,Groceries
+SQ *MAPLE LEAF BARBER VANCOUVER BC,Maple Leaf Barber,Square,Vancouver,BC,Personal Care
+SHOPPERS DRUG MART #0823 CALGARY AB,Shoppers Drug Mart,,Calgary,AB,Pharmacy
+PETRO-CANADA 52134 HALIFAX NS,Petro-Canada,,Halifax,NS,Gas
+ESSO CIRCLE K 4412 WINNIPEG MB,Esso Circle K,,Winnipeg,MB,Gas
+SP * NORTHERN KNITS CO TORONTO ON,Northern Knits Co,Shopify,Toronto,ON,Online Shopping
+PAYPAL *SPOTIFY 4029357733 CA,Spotify,PayPal,,,Subscriptions
+OC TRANSPO PRESTO OTTAWA ON,OC Transpo,,Ottawa,ON,Transportation
+GO TRANSIT PRESTO TORONTO ON,GO Transit,,Toronto,ON,Transportation
+SQ *FARMERS MARKET STALL 12 GUELPH ON,Farmers Market Stall,Square,Guelph,ON,Groceries
+CANADIAN TIRE #145 EDMONTON AB,Canadian Tire,,Edmonton,AB,Retail
+WAL-MART #3104 MISSISSAUGA ON,Walmart,,Mississauga,ON,Retail
+COSTCO WHOLESALE W532 BURNABY BC,Costco Wholesale,,Burnaby,BC,Groceries
+TST* PHO HOA 88 WINNIPEG MB,Pho Hoa 88,Toast,Winnipeg,MB,Restaurants & Cafes
+APPLE.COM/BILL 866-712-7753 ON,Apple,,,ON,Subscriptions
+GOOGLE *YOUTUBE PREMIUM G.CO/HELPPAY# CA,YouTube Premium,Google,,,Subscriptions
+DOLLARAMA #612 SASKATOON SK,Dollarama,,Saskatoon,SK,Retail
+INDIGO BOOKS 214 VICTORIA BC,Indigo Books,,Victoria,BC,Retail
+SQ *THE DAILY GRIND REGINA SK,The Daily Grind,Square,Regina,SK,Restaurants & Cafes
+LCBO/RAO #217 LONDON ON,LCBO,,London,ON,Alcohol
+SAQ SELECTION 23045 QUEBEC QC,SAQ,,Quebec,QC,Alcohol
+ROGERS *WIRELESS 888-764-3771 ON,Rogers,,,ON,Utilities
+BELL CANADA ONLINE PMT VERDUN QC,Bell Canada,,Verdun,QC,Utilities
+HYDRO OTTAWA BILL PAYMENT OTTAWA ON,Hydro Ottawa,,Ottawa,ON,Utilities
+SP * MAPLE SYRUP DIRECT SHERBROOKE QC,Maple Syrup Direct,Shopify,Sherbrooke,QC,Online Shopping
+TST* SUSHI ZONE MARKHAM ON,Sushi Zone,Toast,Markham,ON,Restaurants & Cafes
+CINEPLEX ENTERTAINMENT ST. JOHN'S NL,Cineplex Entertainment,,St. John's,NL,Entertainment
+AIR CANADA 0142168723 WINNIPEG MB,Air Canada,,Winnipeg,MB,Travel
+VIA RAIL CANADA 4021 MONTREAL QC,VIA Rail Canada,,Montreal,QC,Travel
+SQ *GOLDEN DUMPLING HOUSE RICHMOND BC,Golden Dumpling House,Square,Richmond,BC,Restaurants & Cafes
+SOBEYS #779 MONCTON NB,Sobeys,,Moncton,NB,Groceries
+PAYPAL *AIRBNB 4029357733 CA,Airbnb,PayPal,,,Travel
