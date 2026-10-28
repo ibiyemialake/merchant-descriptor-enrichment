@@ -1,0 +1,53 @@
+raw,merchant,processor,city,province,category
+SQ *BLUE BOTTLE CAFE TORONTO ON,Blue Bottle Cafe,Square,Toronto,ON,Restaurants & Cafes
+STARBUCKS 01234 KITCHENER ON,Starbucks,,Kitchener,ON,Restaurants & Cafes
+PAYPAL *DISNEYPLUS 4029357733 CA,Disney+,PayPal,,,Subscriptions
+IGA #8123 MONTREAL QC,IGA,,Montreal,QC,Groceries
+TST* LA BELLE PROVINCE LAVAL QC,La Belle Province,Toast,Laval,QC,Restaurants & Cafes
+MCDONALD'S #40211 BRAMPTON ON,McDonald's,,Brampton,ON,Restaurants & Cafes
+A&W #1123 SURREY BC,A&W,,Surrey,BC,Restaurants & Cafes
+NO FRILLS #3456 HAMILTON ON,No Frills,,Hamilton,ON,Groceries
+REAL CDN SUPERSTORE #1520 REGINA SK,Real Canadian Superstore,,Regina,SK,Groceries
+FRESHCO #9921 SCARBOROUGH ON,FreshCo,,Scarborough,ON,Groceries
+SHELL C12345 BARRIE ON,Shell,,Barrie,ON,Gas
+HUSKY 6620 RED DEER AB,Husky,,Red Deer,AB,Gas
+COSTCO GAS W1234 KANATA ON,Costco Gas,,Kanata,ON,Gas
+PHARMAPRIX #0234 LAVAL QC,Pharmaprix,,Laval,QC,Pharmacy
+LONDON DRUGS 22 BURNABY BC,London Drugs,,Burnaby,BC,Pharmacy
+REXALL #7012 EDMONTON AB,Rexall,,Edmonton,AB,Pharmacy
+NETFLIX.COM 866-579-7172 ON,Netflix,,,ON,Subscriptions
+GOOGLE *GOOGLE ONE G.CO/HELPPAY# CA,Google One,Google,,,Subscriptions
+AMZN MKTP CA*7H2JK0011 WWW.AMAZON.CA ON,Amazon Marketplace,,,ON,Online Shopping
+SP * PEACE COLLECTIVE TORONTO ON,Peace Collective,Shopify,Toronto,ON,Online Shopping
+SP * WILD COAST SOAPS NANAIMO BC,Wild Coast Soaps,Shopify,Nanaimo,BC,Online Shopping
+LYFT *RIDE SUN 2PM LYFT.COM CA,Lyft,,,,Transportation
+STM-METRO MONTREAL QC,STM,,Montreal,QC,Transportation
+TTC PRESTO TORONTO ON,TTC,,Toronto,ON,Transportation
+TRANSLINK COMPASS VANCOUVER BC,TransLink,,Vancouver,BC,Transportation
+UBER* EATS PENDING HELP.UBER.COM,Uber Eats,,,,Restaurants & Cafes
+WESTJET 8384521123 CALGARY AB,WestJet,,Calgary,AB,Travel
+EXPEDIA 72034923 EXPEDIA.CA ON,Expedia,,,ON,Travel
+HOTEL LE GERMAIN QUEBEC QC,Hotel Le Germain,,Quebec,QC,Travel
+BEER STORE 2241 OSHAWA ON,The Beer Store,,Oshawa,ON,Alcohol
+BC LIQUOR #102 KELOWNA BC,BC Liquor,,Kelowna,BC,Alcohol
+SAQ EXPRESS 23311 GATINEAU QC,SAQ,,Gatineau,QC,Alcohol
+LCBO #0055 TORONTO ON,LCBO,,Toronto,ON,Alcohol
+TELUS MOBILITY PREAUTH 888-811-2323 BC,Telus,,,BC,Utilities
+VIDEOTRON LTEE MONTREAL QC,Videotron,,Montreal,QC,Utilities
+ENBRIDGE GAS BILL PMT ON,Enbridge Gas,,,ON,Utilities
+TORONTO HYDRO ELEC 416-542-8000 ON,Toronto Hydro,,,ON,Utilities
+FREEDOM MOBILE 877-946-3184 ON,Freedom Mobile,,,ON,Utilities
+SEPHORA #1203 TORONTO ON,Sephora,,Toronto,ON,Personal Care
+FIRST CHOICE HAIRCUTTERS 3120 OTTAWA ON,First Choice Haircutters,,Ottawa,ON,Personal Care
+CINEPLEX #9123 WINNIPEG MB,Cineplex,,Winnipeg,MB,Entertainment
+TICKETMASTER CA 800-653-8000 ON,Ticketmaster,,,ON,Entertainment
+STEAMGAMES.COM 4259522985 WA,Steam,,,,Entertainment
+BEST BUY #00954 MARKHAM ON,Best Buy,,Markham,ON,Retail
+WINNERS #321 HALIFAX NS,Winners,,Halifax,NS,Retail
+IKEA BOUCHERVILLE QC,IKEA,,Boucherville,QC,Retail
+SPORT CHEK #477 SASKATOON SK,Sport Chek,,Saskatoon,SK,Retail
+HOME DEPOT #7051 MISSISSAUGA ON,Home Depot,,Mississauga,ON,Retail
+TIM HORTON'S #2201 ST. CATHARINES ON,Tim Hortons,,St. Catharines,ON,Restaurants & Cafes
+DOLLARMA #881 MONCTON NB,Dollarama,,Moncton,NB,Retail
+TST* CHEZ ASHTON QUEBEC QC,Chez Ashton,Toast,Quebec,QC,Restaurants & Cafes
+SQ *BOULANGERIE GUILLAUME MONTREAL QC,Boulangerie Guillaume,Square,Montreal,QC,Restaurants & Cafes

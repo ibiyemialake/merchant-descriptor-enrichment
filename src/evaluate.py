@@ -3,6 +3,7 @@
 Usage:
     python src/evaluate.py            # rules baseline only
     python src/evaluate.py --llm      # also run the LLM extractor (needs an API key)
+    python src/evaluate.py --data data/holdout.csv   # score on the held-out set
 """
 import argparse
 import sys
@@ -40,9 +41,11 @@ def run(name, extractor, gold):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--llm", action="store_true")
+    parser.add_argument("--data", default="data/descriptors.csv",
+                        help="labelled CSV to score, e.g. data/holdout.csv")
     args = parser.parse_args()
 
-    gold = pd.read_csv(ROOT / "data" / "descriptors.csv", keep_default_na=False)
+    gold = pd.read_csv(ROOT / args.data, keep_default_na=False)
     methods = [("Rules", extract_rules.extract)]
     if args.llm:
         import extract_llm
